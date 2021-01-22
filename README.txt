@@ -9,7 +9,7 @@ my_toy_filesystem
 量在1k-2k左右，非常适合拿来练手，以及顺带复习Linux文件系统相关知识。具体
 的作业要求在Assignment Problem Description.pdf中。
 
-来源于参考：
+来源与参考：
 https://github.com/clucini/Comp2017Assignment
 https://github.com/Liang-Di/COMP2017-Assignment-File-System
 https://github.com/markafif/COMP2017_FileSystem
