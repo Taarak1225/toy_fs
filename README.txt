@@ -6,8 +6,8 @@ my_toy_filesystem
 
 这个项目来自于悉尼大学的Linux环境编程课的课程作业，内容是在用户空间里设
 计并实现一个简单的文件系统，然后通过fuse挂载到Linux虚拟文件系统中。代码
-量在1k-2k左右，非常适合拿来练手，以及顺带复习Linux文件系统相关知识。具体
-的作业要求在Assignment Problem Description.pdf中。
+量在1k5-2k左右，非常适合拿来练手，以及顺带复习Linux文件系统相关知识。具
+体的作业要求在Assignment Problem Description.pdf中。
 
 来源与参考：
 https://github.com/clucini/Comp2017Assignment
